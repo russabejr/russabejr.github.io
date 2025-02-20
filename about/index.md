@@ -7,5 +7,5 @@ I'm a **Computer Science Major** passionate about **game development, software e
 I love coding, problem-solving, and creating engaging user experiences.
 
 ## 🔧 Skills  
-- Programming: Python, Java, C++  
-- Game Engines: Godot
+- **💻 Programming:** Python, Java, C++  
+- **🎮 Game Engines:** Godot
