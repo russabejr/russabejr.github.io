@@ -2,7 +2,7 @@
 ## 😊 About Me
 Hi! My name is Russell! 👋
 
-I'm a **Computer Science Major** passion about **game development, software engineering, and AI.**
+I'm a **Computer Science Major** passionate about **game development, software engineering, and AI.**
 
 I love coding, problem-solving, and creating engaging user experiences.
 
