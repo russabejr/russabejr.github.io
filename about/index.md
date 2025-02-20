@@ -1,5 +1,4 @@
-# Hello!
-## 😊 About Me
+# 😊 About Me
 Hi! My name is Russell! 👋
 
 I'm a **Computer Science Major** passionate about **game development, software engineering, and AI.**
