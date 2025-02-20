@@ -11,6 +11,8 @@ I love coding, problem-solving, and creating engaging user experiences.
 ## [🚀 Projects](https://russabejr.github.io/projects)
 **[Scale]()** – A simple platformer game I built for a Game Studies class!
 
+[Read more about my projects!](https://russabejr.github.io/projects)
+
 ## 📞 Contact me
 [📧 Email Me](mailto:russabejr@gmail.com)
 [😺 GitHub](https://github.com/russabejr)
