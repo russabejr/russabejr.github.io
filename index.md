@@ -6,6 +6,8 @@ I'm a **Computer Science Major** with an interest in **game development, softwar
 
 I love coding, problem-solving, and creating engaging user experiences.
 
+[Read more about me!](https://russabejr.github.io/about)
+
 ## 🚀 Projects
 **[Scale]()** – A simple platformer game I built for a Game Studies class!
 
