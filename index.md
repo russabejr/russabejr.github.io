@@ -1,8 +1,12 @@
 # Hello!
 ## [😊 About Me](https://russabejr.github.io/about)
-Hi! My name is Russell! 👋
+Hi! My name is Russell Abraham! 👋
 
-I'm a **Computer Science Major** with an interest in **game development, software engineering, and AI.**
+I'm a **Computer Science Major** with an interest in:
+- Game Development
+- Software Engineering
+- Cybersecurity
+- AI
 
 I love coding, problem-solving, and creating engaging user experiences.
 
@@ -13,7 +17,7 @@ I love coding, problem-solving, and creating engaging user experiences.
 
 [Read more about my projects!](https://russabejr.github.io/projects)
 
-## 📞 Contact me
+## 📞 Contact Me
 [📧 Email Me](mailto:russabejr@gmail.com)
 [ℹ️ LinkedIn](https://www.linkedin.com/in/russell-abraham-233073353/)
 [😺 GitHub](https://github.com/russabejr)
