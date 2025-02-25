@@ -15,4 +15,5 @@ I love coding, problem-solving, and creating engaging user experiences.
 
 ## 📞 Contact me
 [📧 Email Me](mailto:russabejr@gmail.com)
+[ℹ️ LinkedIn](https://www.linkedin.com/in/russell-abraham-233073353/)
 [😺 GitHub](https://github.com/russabejr)
