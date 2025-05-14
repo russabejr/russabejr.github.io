@@ -6,3 +6,5 @@
 ![Scale Screenshot](https://raw.githubusercontent.com/russabejr/russabejr.github.io/refs/heads/main/scale_image.png)
 
 **[Simon Says](https://github.com/russabejr/SimonSaysArduino)** - The classic game Simon Says on an Arduino UNO
+
+![Simon Says Breadboard](https://raw.githubusercontent.com/russabejr/SimonSaysArduino/refs/heads/main/breadboard.jpg)
