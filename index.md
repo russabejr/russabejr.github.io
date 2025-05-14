@@ -13,7 +13,11 @@ I love coding, problem-solving, and creating engaging user experiences.
 [Read more about me!](https://russabejr.github.io/about)
 
 ## [🚀 Projects](https://russabejr.github.io/projects)
-**[Scale]()** – A simple platformer game I built for a Game Studies class!
+**[Student Engagement App](https://michaelcummins1.github.io/StudentEngagementApp)** - An unnamed app designed to drive student engagement
+
+**[Scale](https://russabejr.github.io/projects/)** – A simple platformer game I built for a Game Studies class
+
+**[Simon Says](https://github.com/russabejr/SimonSaysArduino)** - The classic game Simon Says on an Arduino UNO
 
 [Read more about my projects!](https://russabejr.github.io/projects)
 
